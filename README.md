@@ -1,5 +1,4 @@
 # 4bonds
-Four Bonds Gameshark code
 
 A while ago I was experimenting with the GameShark capabilities of the EverDrive X7. I wanted to do something cool with it, so I decided to bring another hoax to life. This time, I would thwart MGM and enable the four Bonds once more.
 
